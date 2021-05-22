@@ -1,0 +1,96 @@
+ *** symbol table ***file: ADVENT.R	_rand	0 E	73E	ADVENT			_getval	
+0 E	6FE	ADVENT			_setmem	
+0 E	764	ADVENT			_initw	0 E	6E0	ADVENT			_initb	0 E	6C0	ADVENT			_restore		0 E	630	ADVENT			_srand	0 E	72F	ADVENT			_init	0 E	A6	ADVENT			_main	0 E	0	ADVENT		file: SAVEADV.R	_saveadv		0 E	78A	SAVEADV		_errno	
+U	I	2	SAVEADV		_lastglob	U	I	1	SAVEADV	file: ENGLISH.R	_getword		0 E	AC6	ENGLISH		_skipspc		0 E	B10	ENGLISH		_analyze		0 E	9E3	ENGLISH		_getin	0 E	A53	ENGLISH		_english		0 E	896	ENGLISH		_motion		U	I	1	ENGLISH	file: ITVERB.R	_addobj	
+0 E	EA1	ITVERB			_inventory	0 E	E43	ITVERB			_ivfoo	0 E	D7F	ITVERB			_ivquit	
+0 E	D66	ITVERB			_ivdrink		0 E	D39	ITVERB			_ivkill	
+0 E	C84	ITVERB			_ivopen	
+0 E	C20	ITVERB			_ivtake	
+0 E	BC0	ITVERB			_itverb	
+0 E	B29	ITVERB			_saveflg	U	I	1	ITVERB			_foobar		U	I	2	ITVERB			_gaveup		U	I	1	ITVERB			_object1	U	I	1	ITVERB			_dflag	
+U	I	1	ITVERB			_prop	U	I	C8	ITVERB			_place	
+U	I	C8	ITVERB			_loc	U	I	1	ITVERB			_word1	
+U	I	14	ITVERB			_object		U	I	1	ITVERB			_verb	U	I	1	ITVERB		file: DATABASE.R	_liqloc	
+0 E	15E3	DATABASE		_liq2	0 E	1608	DATABASE		_liq	0 E	15C1	DATABASE		_dcheck	
+0 E	158E	DATABASE		_put	0 E	157A	DATABASE		_juggle	
+0 E	150F	DATABASE		_drop	0 E	153F	DATABASE		_carry	0 E	1513	DATABASE		_move	0 E	14CE	DATABASE		_dstroy	
+0 E	14C0	DATABASE		_at	0 E	148E	DATABASE		_pct	0 E	1473	DATABASE		_forced	
+0 E	145F	DATABASE		_toting	
+0 E	1445	DATABASE		_here	0 E	141F	DATABASE		_dark	0 E	13F9	DATABASE		_vocab	0 E	12CF	DATABASE		_descsh	
+0 E	1255	DATABASE		_desclg	
+0 E	11DB	DATABASE		_pspeak	
+0 E	118E	DATABASE		_rspeak	
+0 E	1104	DATABASE		_yes	0 E	10AB	DATABASE		_bug	0 E	1639	DATABASE		_rdupto	
+0 E	FA5	DATABASE		_rdskip	
+0 E	FF0	DATABASE		_fseek	0 E	1041	DATABASE		_swchfd	
+0 E	109B	DATABASE		_gettrav		0 E	EBD	DATABASE		_fastvseek	U	I	2	DATABASE		_fastvval	U	I	258	DATABASE		_fastverb	U	I	708	DATABASE		_idx6	U	I	3C	DATABASE		_idx3	U	I	1E	DATABASE		_idx2	U	I	1E	DATABASE		_idx1	U	I	1E	DATABASE		_fid	U	I	2	DATABASE		_fd	U	I	E	DATABASE	file: TURN.R	_dopirate	0 E	2517	TURN		_probj	0 E	21F1	TURN		_trobj	0 E	21D7	TURN		_score	0 E	1E7C	TURN		_normend		0 E	1E75	TURN		_dwarfend	0 E	1E6E	TURN		_spcmove		0 E	1D23	TURN		_badmove		0 E	1CA5	TURN		_copytrv		0 E	1B0B	TURN		_dotrav	
+0 E	1B3C	TURN		_goback	
+0 E	19C7	TURN		_doobj	0 E	20B7	TURN		_stimer	
+0 E	26D2	TURN		_descitem	0 E	1881	TURN		_domove	
+0 E	1957	TURN		_describe	0 E	1829	TURN		_death	0 E	2011	TURN		_dwarves		0 E	221E	TURN		_turn	0 E	164C	TURN		_dbgflg		U	I	1	TURN		_numdie		U	I	1	TURN		_chloc2		U	I	2	TURN		_chloc	
+U	I	2	TURN		_daltloc	U	I	2	TURN		_odloc	
+U	I	E	TURN		_clock	
+U	I	2	TURN		_knfloc		U	I	2	TURN		_detail		U	I	1	TURN		_lmwarn		U	I	2	TURN		_tally	
+U	I	2	TURN		_visited	U	I	96	TURN		_oldloc2	U	I	1	TURN		_oldloc		U	I	1	TURN		_turns	
+U	I	2	TURN		_travel		U	I	78	TURN	file: VERB.R	_needobj		0 E	39D9	VERB		_vwake	0 E	398E	VERB		_vbreak	
+0 E	391C	VERB		_vblast	
+0 E	38D9	VERB		_vread	0 E	385C	VERB		_vfill	0 E	36A4	VERB		_vfind	0 E	361A	VERB		_vfeed	0 E	375A	VERB		_vthrow	
+0 E	3474	VERB		_vdrink	
+0 E	3433	VERB		_veat	0 E	33DF	VERB		_vpour	0 E	3302	VERB		_vkill	0 E	3189	VERB		_vwave	0 E	311B	VERB		_voff	0 E	30FB	VERB		_von	0 E	30BF	VERB		_vsay	0 E	308C	VERB		_vopen	0 E	2E9A	VERB		_vdrop	0 E	2CA9	VERB		_vtake	0 E	2B10	VERB		_actspk	
+0 E	39AC	VERB		_trverb	
+0 E	2A46	VERB		_bonus	
+U	I	1	VERB		_dkill	
+U	I	1	VERB		_dseen	
+U	I	7	VERB		_dloc	U	I	E	VERB		_panic	
+U	I	2	VERB		_clock2		U	I	2	VERB		_holding	U	I	1	VERB		_closed		U	I	1	VERB		_closing	U	I	1	VERB		_wzdark		U	I	1	VERB		_limit	
+U	I	2	VERB		_tally2		U	I	2	VERB		_fixed	
+U	I	C8	VERB		_cond	U	I	96	VERB		_newloc		U	I	1	VERB		_word2	
+U	I	14	VERB		_actmsg		U	I	20	VERB	file: 0.LIBC.R	_atof	0 E	3A0C	atof		_atoi	0 E	3B4D	atoi		_cprep	0 E	3BC6	cprep	
+	_FLEX	0 E	3C64	CSTART			cstart	0 E	3BE5	CSTART			__bss	U	I	0	CSTART			_udiv$	0 E	3C8F	DIV		_idiv$	0 E	3C80	DIV		_umod$	0 E	3C73	DIV		_imod$	0 E	3C67	DIV		_modf	0 E	4018	ecvt		_fcvt	0 E	3D25	ecvt		_ecvt	0 E	3D06	ecvt		__exit	0 E	4090	exit		_exit	0 E	4087	exit		.e1add	0 E	4148	FADD		_fsub$i	
+0 E	40D1	FADD		_fsub$s	
+0 E	40C7	FADD		_fsub$	0 E	40D9	FADD		_fdsub$	
+0 E	40B2	FADD		_fadd$i	
+0 E	40AA	FADD		_fadd$s	
+0 E	40A0	FADD		_fadd$	0 E	40EC	FADD		_fdadd$	
+0 E	4099	FADD		_fclose	
+0 E	4257	fclose			_fcmp$i	
+0 E	42AD	FCMP		_fcmp$	0 E	42B3	FCMP		_fcmp$s	
+0 E	42A3	FCMP		.e1div	0 E	4396	FDIV		_fdiv$i	
+0 E	4319	FDIV		_fdiv$s	
+0 E	430F	FDIV		_fdiv$	0 E	4321	FDIV		_fddiv$	
+0 E	42FA	FDIV		_gets	0 E	44AF	fgets	
+	_fgets	0 E	4450	fgets	
+	__filespec	0 E	45B7	filespec		_cfc$	0 E	47F6	FLTINT			_cfu$	0 E	47E4	FLTINT			_cfi$	0 E	47C5	FLTINT			_cfl$	0 E	4750	FLTINT			__fms	0 E	47FD	FMS		_fmul$i	
+0 E	481F	FMUL		_fmul$s	
+0 E	4815	FMUL		_fmul$	0 E	4827	FMUL		_fdmul$	
+0 E	480E	FMUL		_fneg$	0 E	4932	FNEG		_fopen	0 E	4939	fopen	
+	_ungetchar	0 E	4A08	getc		_getc	0 E	4A20	getc		_getchar		0 E	4A01	getc		__getchr		0 E	4AD8	GETCHR			__ifmt	0 E	4ADF	ifmt		_imul$	0 E	4EA7	IMUL		_clf$	0 E	4F22	INTFLT			_ccf$	0 E	4EFA	INTFLT			_cuf$	0 E	4EFB	INTFLT			_cif$	0 E	4EEA	INTFLT			_isalpha		0 E	4F6B	isalpha		_isdigit		0 E	4F87	isdigit		_islower		0 E	4F9C	islower		_isspace		0 E	4FB1	isspace		_isupper		0 E	4FCA	isupper		_ladd$i	
+0 E	4FF0	LADD		_ladd$s	
+0 E	4FE6	LADD		_ladd$	0 E	4FF6	LADD		_ldadd$	
+0 E	4FDF	LADD		_lcmp$i	
+0 E	500B	LCMP		_lcmp$	0 E	5011	LCMP		_lcmp$s	
+0 E	5001	LCMP		_ulmod	0 E	5105	LDIV		_uldiv	0 E	50EE	LDIV		_lmod$i	
+0 E	5073	LDIV		_ldiv$i	
+0 E	506D	LDIV		_lmod$s	
+0 E	5063	LDIV		_ldiv$s	
+0 E	5059	LDIV		_lmod$	0 E	50C2	LDIV		_ldmod$	
+0 E	5042	LDIV		_ldiv$	0 E	5079	LDIV		_lddiv$	
+0 E	502B	LDIV		_ulmul	0 E	51A3	LMUL		_lmul$i	
+0 E	5163	LMUL		_lmul$s	
+0 E	5159	LMUL		_lmul$	0 E	5169	LMUL		_ldmul$	
+0 E	5152	LMUL		_lneg$	0 E	5219	LNEG		_ldshr$	
+0 E	5239	LSHR		_lshr$i	
+0 E	5233	LSHR		_lshr$	0 E	524C	LSHR		_lshr$s	
+0 E	5229	LSHR		_alloc	0 E	530D	memman			_free	0 E	5316	memman			_malloc	
+0 E	525E	memman			__numskip	0 E	53A5	numskip		__base2exp	0 E	5AF8	ofmt		__ofmt	0 E	53DF	ofmt		_printf	
+0 E	5B15	printf			_puterr	
+0 E	5CC4	putc		_putc	0 E	5B4B	putc		_putchar		0 E	5B3C	putc		__putchr		0 E	5CE2	PUTCHR			_puts	0 E	5CE8	puts		_reverse		0 E	5D08	reverse		_rewind	
+0 E	5D3C	rewind			_brk	0 E	5D6B	sbrk		_sbrk	0 E	5D5F	sbrk		__end	U	I	0	sbrk		_scanf	0 E	5D92	scanf	
+	__setext		0 E	5DCA	SETEXT			_sexd$	0 E	5DD1	SEXD		_strcat	
+0 E	5DDA	strcat			_strcmp	
+0 E	5DF0	strcmp			_strcpy	
+0 E	5E19	strcpy			_strlen	
+0 E	5E35	strlen			_tolower		0 E	5E51	tolower		_toupper		0 E	5E6C	toupper		_ltst$	0 E	5E93	TST		_ftst$	0 E	5E87	TST		_unlink	
+0 E	5EA2	unlink			.unext	0 E	6038	EXTEND			__unext	
+0 E	6028	EXTEND			.extend	
+0 E	5FBE	EXTEND			__extend		0 E	5FB0	EXTEND		 *** segment map ***seg	0 size 000060B5seg	1 size 00000006seg	2 size 000006EBseg	3 size 00000059output file name: ADVENT.RL                                                                                                              
